@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(181, 167, 231);
+}
+.card-body{
+    background-color: rgb(192, 216, 216);
+}
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgb(223, 241, 235);
+}
+.card-header{
+    padding: 0%;
+}
+#city-name{
+    padding: 0%;
+    background-color: rgb(165, 228, 233);
+}
+  
+.banner {
+    color: #052b41;
+    font-family: monospace;
+}
